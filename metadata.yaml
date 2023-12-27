@@ -1,5 +1,8 @@
 _repo: The-bedbug-b-Its-relation-to-public-health-its-habits-and-life-history-and-methods-of-control_72238
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72238-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. Public Health Service
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '32334'
     url: http://www.gutenberg.org/2009/agents/32334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72238#The-bedbug-b-Its-relation-to-public-health-its-habits-and-life-history-and-methods-of-control
 edition_note: Revised edition.
 gutenberg_issued: '2023-11-27'
 identifiers:
